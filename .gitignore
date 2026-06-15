@@ -1,3 +1,5 @@
 .idea/
 dotbin.obj
 dotbin.exe
+
+*.bin
