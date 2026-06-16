@@ -3,3 +3,5 @@ dotbin.obj
 dotbin.exe
 
 *.bin
+/a.exe
+/a.obj
