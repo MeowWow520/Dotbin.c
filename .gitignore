@@ -5,3 +5,6 @@ dotbin.exe
 *.bin
 /a.exe
 /a.obj
+/dotbin.ilk
+/dotbin.pdb
+/vc140.pdb
